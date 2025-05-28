@@ -27,5 +27,5 @@ python app/main.py
 Um relatório PDF com gráfico de barras será gerado na pasta `reports`.
 
 ## 🧑‍💻 Feito por [alvaret37](https://github.com/alvaret37)  
-📧 alvaret.dev@gmail.com  
+📧 alvaro.emmanoel@gmail.com  
 (Automação de relatórios com geração de gráficos e PDF.)
